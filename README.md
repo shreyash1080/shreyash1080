@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shreyash Chougule</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
