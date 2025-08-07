@@ -49,7 +49,7 @@ Developed an **iOS event management** app for college students to register and p
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyashChougule&theme=algolia&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyashChougule&theme=algolia&column=4)](https://github.com/ShreyashChougule/github-profile-trophy)
 
 ---
 
