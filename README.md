@@ -123,6 +123,6 @@ Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyash1080&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=shreyash1080&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
 </p>
