@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Joe Root</h1>
+<h1 align="center">Hi 👋, I'm Shreyash Chougule</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full-Stack+Developer;GraphQL+%7C+.NET+%7C+React;Azure+CI%2FCD+%7C+Kafka+%7C+Avro+%7C+SQL+%7C+EF+Core" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ## 👨‍💻 About Me
 
-Hello, I'm **Joe Root**, an **Associate Software Development Engineer** with a passion for building robust, scalable, and user-friendly web applications. I specialize in **.NET**, **React**, **GraphQL**, and **modern DevOps practices**.
+Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer** passionate about building robust, scalable, and user-friendly web applications. I specialize in **.NET**, **GraphQL**, **React**, and **Full Stack Web Developer** practices.
 
 - 🔭 Currently mastering **Apache Kafka**, **Avro**, and **CI/CD with Azure**
-- 🧠 Learning something new every day
-- 💬 Ask me about **.NET, GraphQL, React, Docker, or Kafka**
-- 🤝 Open to collaborations and open-source contributions
+- 💬 Ask me about **.NET**, **GraphQL**, **React**, **Kafka**, **Docker**, **SQL**, **ColdFusion**
+- 🤝 Open to **collaborations** and **open-source contributions**
+- 🧠 Learning something new **every day**
 
 ---
 
@@ -29,41 +29,39 @@ Hello, I'm **Joe Root**, an **Associate Software Development Engineer** with a p
 
 ### 👨‍🎨 Front-End  
 ![React](https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ColdFusion](https://img.shields.io/badge/ColdFusion-ED1C24?style=flat-square&logo=adobe&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 
 ### 🛠️ Back-End  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### ⚙️ DevOps & Tools  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-YAML-blue?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![ColdFusion](https://img.shields.io/badge/ColdFusion-0F7597?style=flat-square)
+![ColdFusion](https://img.shields.io/badge/ColdFusion-ED1C24?style=flat-square&logo=adobe&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements and Trophies
+
+<p align="center">
+  <a href="https://github.com/shreyash1080?achievement=pull-shark&tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
+  </a>
+  <a href="https://github.com/shreyash1080?achievement=yolo&tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
+  </a>
+  <a href="https://github.com/shreyash1080?achievement=quickdraw&tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreyash1080&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
-
-## 🥇 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark%20×2-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Achievement-YOLO%20×2-red?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-orange?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -104,12 +102,15 @@ Hello, I'm **Joe Root**, an **Associate Software Development Engineer** with a p
 
 ## 📫 Get in Touch
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/joe-root-4320a2192/)
-- 📧 Email: [joerootdev@gmail.com](mailto:joerootdev@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shreyash-chougule)
+- 📧 Email: [ShreyashChougule1080@gmail.com](mailto:joerootdev@gmail.com)
 - 💻 GitHub: [shreyash1080](https://github.com/shreyash1080)
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash1080&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyash1080&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
 </p>
