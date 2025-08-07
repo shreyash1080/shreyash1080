@@ -82,7 +82,7 @@ Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer**
     <img src="https://img.shields.io/badge/ColdFusion%20%7C%20Web%20Dev-orange?style=for-the-badge&logo=adobe" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/XAHXEH7PYNZJ" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-AI%20For%20Everyone-lightgrey?style=for-the-badge&logo=coursera" />
+    <img src="https://img.shields.io/badge/Coursera-IBM- %20Web%20Development-lightgrey?style=for-the-badge&logo=coursera" />
   </a>
   <a href="https://www.hackerrank.com/certificates/77d4d1a1947b" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-brightgreen?style=for-the-badge&logo=hackerrank" />
