@@ -55,13 +55,17 @@ Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer**
   <a href="https://github.com/shreyash1080?achievement=pull-shark&tab=achievements">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
   </a>
+  
   <a href="https://github.com/shreyash1080?achievement=yolo&tab=achievements">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
   </a>
+  
   <a href="https://github.com/shreyash1080?achievement=quickdraw&tab=achievements">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
   </a>
+  
 </p>
+  <br><br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreyash1080&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
@@ -71,35 +75,40 @@ Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer**
 
 ## 📜 Certifications
 
-<p align="center">
-  <a href="https://codedamn.com/certificate/verify/edbc712d6471fad0c780da1ffa56c8b208fb0cf9" target="_blank">
-    <img src="https://img.shields.io/badge/Codedamn-Project%20Completion-blueviolet?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://codedamn.com/certificate/verify/9abcc19b8dfd2fce467dc06808b45f5a88124265" target="_blank">
-    <img src="https://img.shields.io/badge/Codedamn-JS%20Beginner-brightgreen?style=for-the-badge&logo=javascript" />
-  </a>
-  <a href="https://drive.google.com/file/d/1k0UnRcCaUPd3kY0ppQYyfHBFup6YWaiE/view" target="_blank">
-    <img src="https://img.shields.io/badge/ColdFusion%20%7C%20Web%20Dev-orange?style=for-the-badge&logo=adobe" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/XAHXEH7PYNZJ" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-IBM- %20Web%20Development-lightgrey?style=for-the-badge&logo=coursera" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/77d4d1a1947b" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-brightgreen?style=for-the-badge&logo=hackerrank" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/D2RDKB46C6QU" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-Git%20%26%20GitHub-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://drive.google.com/file/d/1qCFD-u8FHTaFQ_ZAH7NdbhQYFk_L3MUU/view" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-Git%20%26%20GitHub%20Certified-lightblue?style=for-the-badge&logo=ibm" />
-  </a>
-  <a href="https://drive.google.com/file/d/14ecQZ_a8tH5SzPFRgvUndR8QshkQIl8S/view" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-AZ%2D900%20Certified-blue?style=for-the-badge&logo=microsoft" />
-  </a>
-  <a href="https://drive.google.com/file/d/1wDyz30HiSBSdt7UBdgV6MSPIgLusm0KO/view" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-Power%20Platform%20Certified-ff69b4?style=for-the-badge&logo=powerbi" />
-  </a>
-</p>
+<div align="center">
+
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/Codedamn-Intro%20to%20DSA-blueviolet?style=for-the-badge&logo=codedamn&logoColor=white" alt="Introduction to DSA" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TCS%20iON-Young%20Professional-orange?style=for-the-badge&logo=tcs&logoColor=white" alt="TCS iON" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HackerRank-Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java HackerRank" />
+
+  <br><br>
+
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/Codedamn-Mastering%20Algorithms-blueviolet?style=for-the-badge&logo=codedamn&logoColor=white" alt="Mastering Algorithms" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IBM-Intro%20to%20Web%20Dev-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Web Dev" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+
+  <br><br>
+
+  <!-- Row 3 -->
+  <img src="https://img.shields.io/badge/Orbitor-Web%20Dev%20Internship-yellow?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev Internship" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IBM-Git%20&%20GitHub%20Certified-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-Basics-9cf?style=for-the-badge&logo=github&logoColor=black" alt="Git Basics" />
+
+  <br><br>
+
+  <!-- Row 4 -->
+  <img src="https://img.shields.io/badge/HackerRank-C%23-brightgreen?style=for-the-badge&logo=csharp&logoColor=white" alt="C# HackerRank" />
+
+</div>
+
 
 ---
 
