@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shreyash Chougule</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Shreyash%20Chougule&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" />
+</div>
 
 <p align="center">
   <img 
@@ -21,31 +23,42 @@
 
 Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer** passionate about building robust, scalable, and user-friendly web applications. I specialize in **.NET**, **GraphQL**, **React**, and **Full Stack Web Developer** practices.
 
-- 🔭 Currently mastering **Apache Kafka**, **Avro**, and **CI/CD with Azure**
-- 💬 Ask me about **.NET**, **GraphQL**, **React**, **Kafka**, **Docker**, **SQL**, **ColdFusion**
+- 🔭 Currently mastering **AI**, **Agentic Ai**, and ** Azure**
+- 💬 Ask me about **.NET**, **GraphQL**, **React**, **Kafka**, **Docker**, **SQL**
 - 🤝 Open to **collaborations** and **open-source contributions**
 - 🧠 Learning something new **every day**
 
 ---
+## 🚀 Tech Stack & Tools
 
-## 🚀 Skills
+<p align="center">
+  <em>Hover over the icons to see the magic!</em>
+</p>
 
-### 👨‍🎨 Front-End  
-![React](https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![ColdFusion](https://img.shields.io/badge/ColdFusion-ED1C24?style=flat-square&logo=adobe&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### 🎨 Frontend Development
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,wasm,ts,js,html,css&perline=8" alt="Frontend Skills" />
+  </a>
+</div>
 
+<br/>
 
-### 🛠️ Back-End  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![ColdFusion](https://img.shields.io/badge/ColdFusion-ED1C24?style=flat-square&logo=adobe&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
+### ⚙️ Backend & Architecture
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,graphql,kafka,redis,postgres,mysql&perline=8" alt="Backend Skills" />
+  </a>
+</div>
+
+<br/>
+
+### ☁️ Cloud, DevOps & AI
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,python&perline=8" alt="Cloud, DevOps, and AI Skills" />
+  </a>
+</div>
 
 ---
 
@@ -68,55 +81,149 @@ Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer**
   <br><br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyash1080&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyash1080&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true&cache_seconds=86400" alt="Trophies" />
 </p>
 
 ---
 
 ## 📜 Certifications
+## 📜 Certifications & Achievements
 
 <div align="center">
 
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/Codedamn-Intro%20to%20DSA-blueviolet?style=for-the-badge&logo=codedamn&logoColor=white" alt="Introduction to DSA" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TCS%20iON-Young%20Professional-orange?style=for-the-badge&logo=tcs&logoColor=white" alt="TCS iON" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HackerRank-Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java HackerRank" />
+### ☁️ Cloud & Architecture
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=azure" width="45" /><br>
+      <b>Azure Administrator (AZ-104)</b><br>
+      <i>Microsoft</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=azure" width="45" /><br>
+      <b>Azure Fundamentals (AZ-900)</b><br>
+      <i>Microsoft</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=graphql" width="45" /><br>
+      <b>Associate Developer</b><br>
+      <i>Apollo GraphQL</i>
+    </td>
+  </tr>
+</table>
 
-  <br><br>
+<br>
 
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/Codedamn-Mastering%20Algorithms-blueviolet?style=for-the-badge&logo=codedamn&logoColor=white" alt="Mastering Algorithms" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IBM-Intro%20to%20Web%20Dev-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Web Dev" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+### 💻 Full-Stack & Professional
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=html" width="45" /><br>
+      <b>Intro to Web Dev</b><br>
+      <i>IBM</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=github" width="45" /><br>
+      <b>Git & GitHub Certified</b><br>
+      <i>IBM</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=react" width="45" /><br>
+      <b>Web Dev Internship</b><br>
+      <i>Orbitor</i>
+    </td>
+  </tr>
+</table>
 
-  <br><br>
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=cs" width="45" /><br>
+      <b>C# Certified</b><br>
+      <i>HackerRank</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=java" width="45" /><br>
+      <b>Java Certified</b><br>
+      <i>HackerRank</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" /><br>
+      <b>Intro to DSA & Algorithms</b><br>
+      <i>Codedamn</i>
+    </td>
+  </tr>
+</table>
 
-  <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/Orbitor-Web%20Dev%20Internship-yellow?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev Internship" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IBM-Git%20&%20GitHub%20Certified-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git%20&%20GitHub-Basics-9cf?style=for-the-badge&logo=github&logoColor=black" alt="Git Basics" />
+<br>
 
-  <br><br>
-
-  <!-- Row 4 -->
-  <img src="https://img.shields.io/badge/HackerRank-C%23-brightgreen?style=for-the-badge&logo=csharp&logoColor=white" alt="C# HackerRank" />
+### 🎯 Currently Pursuing
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=azure" width="45" /><br>
+      <b>Azure AI Fundamentals (AI-901)</b><br>
+      <i>Microsoft</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=azure" width="45" /><br>
+      <b>Azure AI Engineer (AI-103)</b><br>
+      <i>Microsoft</i>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shreyash-chougule)
-- 📧 Email: [ShreyashChougule1080@gmail.com](mailto:joerootdev@gmail.com)
-- 💻 GitHub: [shreyash1080](https://github.com/shreyash1080)
+<div align="center">
+  <p>
+    <i>Whether you have a question, an exciting project, or just want to say hi, my inbox is always open!</i>
+  </p>
+</div>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="200">
+        <a href="https://www.linkedin.com/in/shreyash-chougule" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="55" /><br><br>
+          <b>LinkedIn</b><br>
+          <i>Let's Network</i>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="mailto:ShreyashChougule1080@gmail.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=gmail" width="55" /><br><br>
+          <b>Email</b><br>
+          <i>Drop a Line</i>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://github.com/shreyash1080" target="_blank">
+          <img src="https://skillicons.dev/icons?i=github" width="55" /><br><br>
+          <b>GitHub</b><br>
+          <i>Explore my Code</i>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:ShreyashChougule1080@gmail.com">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Build%20Something%20Awesome%20Together!&fontSize=26&fontAlignY=65&animation=fadeIn" alt="Footer Banner" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=400&lines=Coffee+%E2%98%95;Code+%F0%9F%92%BB;Connect+%F0%9F%A4%9D" alt="Typing Signoff" />
+</p>
 
 ---
 
