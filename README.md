@@ -23,7 +23,7 @@
 
 Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer** passionate about building robust, scalable, and user-friendly web applications. I specialize in **.NET**, **GraphQL**, **React**, and **Full Stack Web Developer** practices.
 
-- 🔭 Currently mastering **AI**, **Agentic Ai**, and ** Azure**
+- 🔭 Currently mastering **AI**, **Agentic Ai**, and **Azure**
 - 💬 Ask me about **.NET**, **GraphQL**, **React**, **Kafka**, **Docker**, **SQL**
 - 🤝 Open to **collaborations** and **open-source contributions**
 - 🧠 Learning something new **every day**
