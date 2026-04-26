@@ -196,7 +196,7 @@ Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer**
         </a>
       </td>
       <td align="center" width="200">
-        <a href="mailto:ShreyashChougule1080@gmail.com" target="_blank">
+        <a href="mailto:ShreyashChougule001@gmail.com" target="_blank">
           <img src="https://skillicons.dev/icons?i=gmail" width="55" /><br><br>
           <b>Email</b><br>
           <i>Drop a Line</i>
