@@ -31,10 +31,6 @@ Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer**
 ---
 ## 🚀 Tech Stack & Tools
 
-<p align="center">
-  <em>Hover over the icons to see the magic!</em>
-</p>
-
 ### 🎨 Frontend Development
 <div align="center">
   <a href="https://skillicons.dev">
