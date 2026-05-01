@@ -83,11 +83,7 @@ Hello, I'm **Shreyash Chougule**, an **Associate Software Development Engineer**
 ---
 
 ## 📜 Certifications
-## 📜 Certifications & Achievements
-
 <div align="center">
-
-### ☁️ Cloud & Architecture
 <table align="center">
   <tr>
     <td align="center" width="250">
